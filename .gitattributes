@@ -1,11 +1,11 @@
 demo/* linguist-documentation=false
 demo/* linguist-vendored=false
 
-java/* linguist-documentation=false
-java/* linguist-vendored=false
+demo/src/main/java/com/example/demo/* linguist-documentation=false
+demo/src/main/java/com/example/demo/* linguist-vendored=false
 
-controller/* linguist-documentation=false
-controller/* linguist-vendored=false
+demo/src/main/java/com/example/demo/controller/* linguist-documentation=false
+demo/src/main/java/com/example/demo/controller/* linguist-vendored=false
 
-jsp/* linguist-documentation=false
-jsp/* linguist-vendored=false
+demo/src/main/webapp/WEB-INF/* linguist-documentation=false
+demo/src/main/webapp/WEB-INF/* linguist-vendored=false
