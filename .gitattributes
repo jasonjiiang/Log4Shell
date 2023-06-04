@@ -1,11 +1,5 @@
-demo/* linguist-documentation=false
-demo/* linguist-vendored=false
-
 demo/src/main/java/com/example/demo/* linguist-documentation=false
 demo/src/main/java/com/example/demo/* linguist-vendored=false
 
 demo/src/main/java/com/example/demo/controller/* linguist-documentation=false
 demo/src/main/java/com/example/demo/controller/* linguist-vendored=false
-
-demo/src/main/webapp/WEB-INF/* linguist-documentation=false
-demo/src/main/webapp/WEB-INF/* linguist-vendored=false
