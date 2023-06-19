@@ -5,3 +5,8 @@ This vulnerability works through Log4J using the lookup features that allows a p
 
 The primary cause of this vulnerability is using Java 8u202 or earlier that has the Log4J logger with the version as 2.14.1. So, a way to resolve this issue would be to either update the Java version or Log4J. As well as a potential cause such as improper input validation.
 
+To run this application, first, direct yourself to the directory in a command-line interface and run:
+
+```java -jar ./target/demo-0.0.1-SNAPSHOT.jar com.example.demo.Application```
+
+This will run the application using the embedded Tomcat server.
